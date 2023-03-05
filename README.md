@@ -22,7 +22,7 @@ Copy source files into your own project
 
 You can use Swift Package Manager to integrate the library by adding the following dependency in your Package.swift file or by adding directly within Xcode
 
-`.Package(url: "https://github.com/adamrushy/OpenAISwift.git", majorVersion: 1)`
+`.Package(url: "https://github.com/YuHuiWan/OpenAISwift.git", majorVersion: 1)`
 
 ## Example Usage 🤩
 
